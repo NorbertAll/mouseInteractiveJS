@@ -49,10 +49,54 @@ body{
 
 .star:nth-child(8){
     left: 80%;
-    top: 88%;
+    top: 68%;
 }
 .star:nth-child(9){
-    left: 90%;
+    left: 80%;
+    top: 40%;
+}
+.star:nth-child(10){
+    left: 10%;
+    top: 60%;
+}
+.star:nth-child(11){
+    left: 20%;
+    top: 68%;
+}
+.star:nth-child(12){
+    left: 20%;
+    top: 53%;
+}
+.star:nth-child(13){
+    left: 20%;
+    top: 30%;
+}
+.star:nth-child(14){
+    left: 25%;
+    top: 35%;
+}
+.star:nth-child(15){
+    left: 20%;
+    top: 60%;
+}
+.star:nth-child(16){
+    left: 70%;
+    top: 60%;
+}
+.star:nth-child(17){
+    left: 32%;
+    top: 57%;
+}
+.star:nth-child(18){
+    left: 40%;
+    top: 50%;
+}
+.star:nth-child(19){
+    left: 50%;
+    top: 60%;
+}
+.star:nth-child(20){
+    left: 60%;
     top: 40%;
 }
 .anim-bg.moon{
