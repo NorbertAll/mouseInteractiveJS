@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+}
+.sky-animation{
+    position: relative;
+    background-color: rgb(23, 15, 110);
+    height: 100vh;
+    width: 100%;
+}
+
+.star{
+    position: absolute;
+    width: 5%;
+}
+.moon{
+    position: absolute;
+    width: 15%;
+    top: 20%;
+}
+
+.star:nth-child(1){
+    left: 5%;
+    top: 5%;
+}
+.star:nth-child(2){
+    left: 10%;
+    top: 10%;
+}
+.star:nth-child(3){
+    left: 20%;
+    top: 20%;
+}
+.star:nth-child(4){
+    left: 30%;
+    top: 20%;
+}
+.star:nth-child(5){
+    left: 40%;
+    top: 30%;
+}
+.star:nth-child(6){
+    left: 50%;
+    top: 30%;
+}
+.star:nth-child(7){
+    left: 67%;
+    top: 20%;
+}
+
+.star:nth-child(8){
+    left: 80%;
+    top: 88%;
+}
+.star:nth-child(9){
+    left: 90%;
+    top: 40%;
+}
+.anim-bg.moon{
+    left: 45%;
+    top: 45%;
+}
